@@ -45,17 +45,6 @@ This project is a **Streamlit web application** that recommends books based on u
 
 **Live Demo**: [Click here to run it live on server]()  
 
----
-
-## **Demo**
-
-<img src="demo/1.png" alt="demo" width="70%">
-
-<img src="demo/2.png" alt="demo" width="70%">
-
-<img src="demo/3.png" alt="demo" width="70%">
-
----
 
 ## **Dataset Used**
 
