@@ -45,7 +45,6 @@ A recommendation system searches for content that is interesting to an individua
 This project is a **Streamlit web application** that recommends books based on user interest using a **Collaborative Filtering** approach.
 
 **Live Demo**: [Click here to run it live on server]()  
-(*Add the live server link above once deployed.*)
 
 ---
 
