@@ -1,6 +1,5 @@
 # **Book Recommender System Using Machine Learning | Collaborative Filtering Based**
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
 
 Recommendation systems are becoming increasingly important in today’s busy world. They help users make the right choices quickly, saving time and effort. 
 
